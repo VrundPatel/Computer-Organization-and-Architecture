@@ -46,13 +46,18 @@ Computer Organization and Architecture
 
 -   **History of Computers**
 
-  Type                                    Period           Performance
-  --------------------------------------- ---------------- -------------
-  Mechanical Computers                    1630-1945        &lt;1
-  Vacuum Tubes                            1945-1955        1
-  Transistor                              1955-1965        35
-  Integrated circuit                      1965-1980        900
-  LSI (Large System Integration) & VLSI   1980 – Present   2,400,000
+  | Type                                   | Period          | Performance  |
+  | ---------------------------------------| ----------------| -------------|
+  | Mechanical Computers                   | 1630-1945       | &lt;1        |
+  | ---------------------------------------| ----------------| -------------|
+  | Vacuum Tubes                           | 1945-1955       | 1            |
+  | ---------------------------------------| ----------------| -------------|
+  | Transistor                             | 1955-1965       | 35           |
+  | ---------------------------------------| ----------------| -------------|
+  | Integrated circuit                     | 1965-1980       | 900          |
+  | ---------------------------------------| ----------------| -------------|
+  | LSI (Large System Integration) & VLSI  | 1980 – Present  | 2,400,000    |
+  | ---------------------------------------| ----------------| -------------|
 
 -   **Computer Layers**
 
@@ -75,5 +80,3 @@ Computer Organization and Architecture
   -   Physics
 
   ---------------------------------------------
-
-
