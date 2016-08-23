@@ -46,14 +46,34 @@ Computer Organization and Architecture
 
 -   **History of Computers**
 
-    -   Mechanical Computers (1630-1945)
+  Type                                    Period           Performance
+  --------------------------------------- ---------------- -------------
+  Mechanical Computers                    1630-1945        &lt;1
+  Vacuum Tubes                            1945-1955        1
+  Transistor                              1955-1965        35
+  Integrated circuit                      1965-1980        900
+  LSI (Large System Integration) & VLSI   1980 – Present   2,400,000
 
-    -   Vacuum Tubes (1945-1955)
+-   **Computer Layers**
 
-    -   Transistor (1955-1965)
+  ---------------------------------------------
+  -   User
 
-    -   Integrated circuit (1965-1980)
+  ---------------------------------------------
+  -   High-level Language – Java, C++, Python
 
-    -   LSI (Large System Integration) & VLSI (1980 – Present)
+  -   Assembly Language – Assembly Code
+
+  -   System Software - OS
+
+  -   Machine
+
+  -   Control – Hard wired
+
+  -   Digital Logic – Basic components
+
+  -   Physics
+
+  ---------------------------------------------
 
 
