@@ -55,23 +55,39 @@ Computer Organization and Architecture
   | LSI (Large System Integration) & VLSI  | 1980 – Present  | 2,400,000    |
 
 -   **Computer Layers**
+    -   User
 
-  ---------------------------------------------
-  -   User
+    -   High-level Language – Java, C++, Python
 
-  ---------------------------------------------
-  -   High-level Language – Java, C++, Python
+    -   Assembly Language – Assembly Code
 
-  -   Assembly Language – Assembly Code
+    -   System Software - OS
 
-  -   System Software - OS
+    -   Machine
 
-  -   Machine
+    -   Control – Hard wired
 
-  -   Control – Hard wired
+    -   Digital Logic – Basic components
 
-  -   Digital Logic – Basic components
+    -   Physics
 
-  -   Physics
+-   **The Three -y's**
 
-  ---------------------------------------------
+    - Hierarchy
+
+        - A system divided into modules and submodules.
+
+    - Modularity
+
+        - Having well-defined functions and interfaces.
+
+    - Regularity
+
+        - Encouraging uniformity, so modules can be easily reused.
+
+
+-   **The Digital Abstraction**
+
+    - Most physical variables are continuous.
+
+    - Digital abstraction considers discrete subset of values.
